@@ -10,6 +10,8 @@ Time Series Analysis: Shows the sum of revenue over time, segmented by year, mon
 Demographic Breakdown: Visualizes revenue distribution across different age groups, marital statuses, income levels, and education types.
 Usage Patterns: Highlights revenue by dependent status and top states.
 Customer Job and Card Type Analysis: Summarizes revenue, interest earned, and income across different customer job categories and card types (Silver, Blue, Gold, Platinum).
+![Credit Card Customer Report](https://github.com/user-attachments/assets/b8cc068b-3c2d-42ea-a219-744b5110eca2)
+
 
 
 # Credit Card Transaction Report
@@ -26,4 +28,4 @@ Card Category Analysis: Summarizes revenue, transaction amount, and interest ear
 These dashboards provide valuable insights for understanding customer behavior and transaction patterns, aiding in strategic decision-making and improving customer engagement.
 
 
- 
+![Credit Card Transaction Details](https://github.com/user-attachments/assets/8be75377-692a-4940-813a-7fdfae10a396)
